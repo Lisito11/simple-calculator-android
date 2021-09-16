@@ -1,4 +1,4 @@
-# Simple calculator - Android with Java
+# Simple calculator
 ### This a simple calculator that have operations basics, like addition, subtraction, multiplication. Also the calculator can convert the result to dollar and to dominican peso.
 ## Samples Images
 <hr/>
